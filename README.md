@@ -1,6 +1,6 @@
 # Assignment 2 - Personal Website
 
-Link to the website - https://divyadreddy.github.io/Personal-Website/
+Link to the website - https://divyadreddy.github.io/My-Website/
 
 I created 3 sections:
 
